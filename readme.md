@@ -33,9 +33,9 @@ Contributions are welcome! If you have a trainer that is missing from this repo.
 
 You can also use the included generate&update_supportedGames.py script to quickly generate a properly formatted markdown list of the games you add like below. 
 
-# Xbox 360 Supported Games
+# Supported Games
 
-This list contains 561 Xbox 360 games found in the local collection.
+This list contains 561 Xbox 360 games found in the collection.
 
 *Generated on: 2025-05-12 17:43:14*
 
